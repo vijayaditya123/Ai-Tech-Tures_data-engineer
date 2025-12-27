@@ -13,12 +13,10 @@ p1 = Product("Phone", 30000)
    <br>
 p2 = Product("Laptop", 80000)
    <br>
-print(p1)
+print(p1) 
    <br>
-print(p2)
+print(p1 == p2) //False
    <br>
-print(p1 == p2)
-   <br>
-print(p2 > p1) 
+print(p2 > p1)  //True
    <br>
 
