@@ -13,7 +13,7 @@ p1 = Product("Phone", 30000)
    <br>
 p2 = Product("Laptop", 80000)
    <br>
-print(p1) 
+print(p1) // device : Phone ,Price: 30000
    <br>
 print(p1 == p2) //False
    <br>
